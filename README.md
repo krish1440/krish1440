@@ -9,19 +9,15 @@
 
  `📚` Lifelong learner exploring new data science technologies
 
- `🔧` Technologies & Tools
+### 🔧 Technologies & Tools
 
- `🖥️` Languages: Python, R, SQL
+ `🖥️` Languages: Python, SQL
 
- `📊` Data Analysis: Pandas, NumPy, Scikit-Learn
+ `📊` Data Analysis: Pandas, NumPy
 
- `📈` Data Visualization: Matplotlib, Seaborn, Plotly
+ `📈` Data Visualization: Matplotlib, Seaborn
 
- `🤖` Machine Learning: TensorFlow, Keras, PyTorch
-
- `🔧` Tools: Jupyter, Git, Docker
-
- `📈` GitHub Stats
+ `🔧` Tools: Jupyter, Git
 
 ### 🌐 Connect with Me
 [LinkedIn 🌐](https://www.linkedin.com/in/krish-chaudhary/)
