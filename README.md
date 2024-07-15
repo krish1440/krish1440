@@ -29,4 +29,7 @@
 
 [🔗 GitHub Repository](https://github.com/krish1440/ipl_analysis)
 
-`📝 Description:` An in-depth analysis of the ipl data analysis (2008 to 2017) dataset, exploring various trends and patterns using Pandas and Seaborn ,matplotlib.
+`📌 Project 2:` Data Analysis on  Crop Production in India
+
+[🔗 GitHub Repository](https://github.com/krish1440/Crop-Production-Analysis-)
+
