@@ -11,13 +11,13 @@
 
 ### 🔧 Technologies & Tools
 
- `🖥️` Languages: Python, SQL
-
- `📊` Data Analysis: Pandas, NumPy
-
- `📈` Data Visualization: Matplotlib, Seaborn
-
- `🔧` Tools: Jupyter, Git
+`Languages and DataBases:` Python, SQL, MySQL, C, JAVA 
+`Data Science & Machine learning:` Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib
+`Tools:` Tableau, Power BI, Excel, Google Sheets, IBM Cognos
+`Development Tool:` Git, VS code, Spyder , Pycharm, Anaconda, Jupyter Notebook, Eclipse      
+`Database Management Systems (DBMS):` MySQL, Oracle DB
+`Soft Skills:` Analytical Thinking, Problem-Solvling, Communication, Team Collaboration
+`Other Skills:` Advanced Excel, Business Analysis, Data Analysis, Customer Acquisition
 
 ### 🌐 Connect with Me
 [LinkedIn 🌐](https://www.linkedin.com/in/krish-chaudhary/)
