@@ -30,6 +30,7 @@
 [LinkedIn 🌐](https://www.linkedin.com/in/krish-chaudhary/)
 
 [Email 📧](krishchauhdary@816@gmail.com)
+
 [Portfolio 🌐]([krishchauhdary@816@gmail.com](https://github.com/krish1440/Portfolio))
 
 ### 📂 Projects
@@ -40,9 +41,11 @@
 `📌 Project 2:` Data Analysis on  Crop Production in India
 
 [🔗 GitHub Repository](https://github.com/krish1440/Crop-Production-Analysis-)
+
 `📌 Project 3:` Accenture-Social-Buzz-Forage
 
 [🔗 GitHub Repository]([https://github.com/krish1440/ipl_analysis](https://github.com/krish1440/Accenture-Social-Buzz-Forage))
+
 `📌 Project 4:` IBM Capstone : Social Buzz 
 
 [🔗 GitHub Repository]([[https://github.com/krish1440/ipl_analysis](https://github.com/krish1440/Accenture-Social-Buzz-Forage](https://github.com/krish1440/IBM_COGNOS_DASHBOARD)))
