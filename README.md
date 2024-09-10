@@ -31,7 +31,7 @@
 
 [Email 📧](krishchauhdary@816@gmail.com)
 
-[Portfolio 🌐]((https://github.com/krish1440/Portfolio))
+[Portfolio 🌐](https://github.com/krish1440/Portfolio)
 
 ### 📂 Projects
 `📌 Project 1:` Data Analysis on  ipl data analysis
