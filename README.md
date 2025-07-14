@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Data Science Animation" width="500"/>
-  <h1>👋 Hi, I'm Krish Chaudhary</h1>
+  <img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data Science Animation" width="500"/>
+  <h1></br>👋 Hi, I'm Krish Chaudhary</h1>
   <h3>🔍 Unraveling Insights, Shaping the Future with Data</h3>
   <p>
     <a href="https://linkedin.com/in/krish-chaudhary-krc8252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
