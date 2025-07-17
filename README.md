@@ -95,7 +95,7 @@ I'm a **Data Science Enthusiast** passionate about uncovering insights and build
   <a></br></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
   <a></br></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish1440&theme=dracula" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
