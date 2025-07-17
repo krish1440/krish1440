@@ -92,10 +92,8 @@ I'm a **Data Science Enthusiast** passionate about uncovering insights and build
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <a></br></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
-  <a></br></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=radical" alt="GitHub Streak" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=dracula" alt="Top Languages" width="400"/>  
 </p>
 
 ---
