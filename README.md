@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/krish-chaudhary-krc8252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://kaggle.com/krishchaudhary144"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="mailto:krishchaudhary144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="[https://kaggle.com/krishchaudhary144](https://portfolio-krish-chaudhary.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white" alt="Kaggle"/></a>
+    <a href="https://portfolio-krish-chaudhary.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white" alt="Kaggle"/></a>
   </p>
 </div>
 
