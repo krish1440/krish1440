@@ -1,27 +1,33 @@
 <div align="center">
-  <img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data Science Animation" width="500"/>
-  <h1></br>👋 Hi, I'm Krish Chaudhary</h1>
-  <h3>🔍 Unraveling Insights, Shaping the Future with Data</h3>
-  <p>
-    <a href="https://linkedin.com/in/krish-chaudhary-krc8252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://kaggle.com/krishchaudhary144"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-    <a href="mailto:krishchaudhary144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://portfolio-krish-chaudhary.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white" alt="Kaggle"/></a>
-  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Profile Banner" width="100%" />
+</div>
+
+<div align="center">
+
+# Hi 👋, I'm Krish Chaudhary
+
+### 🔍 Unraveling Insights, Shaping the Future with Data
+
+Unlock the power of data with me! I transform raw information into actionable insights.
+
+<img src="https://res.cloudinary.com/dyhe9rbjz/image/upload/v1752730193/xnpzgmszpklhab69bsaj.png" alt="Krish Chaudhary" width="150" height="150" style="border-radius: 50%;" />
+
 </div>
 
 ---
 
-### 🌟 About Me
-I'm a **Data Science Enthusiast** passionate about uncovering insights and building intelligent systems. I specialize in **Machine Learning**, **Deep Learning**, and **MLOps**, turning raw data into actionable strategies. Always exploring cutting-edge tech to stay ahead!
+## 🚀 About Me
 
-- 🎓 **Focus**: Machine Learning, Deep Learning, and AI
-- 💻 **Skills**: Data Analysis, Visualization, Model Deployment
-- 📚 **Learning**: MLOps, NLP, Scalable Data Pipelines
-- 👯 **Collaboration**: Open to Data Science Projects, Open-Source ML, or AI Solutions
-- 💬 **Ask Me About**: Python, Machine Learning, MLOps, Data Visualization
-- 📫 **Contact**: <a href="mailto:krishchaudhary144@gmail.com">krishchaudhary144@gmail.com</a>
-- ⚡ **Fun Fact**: I find patterns in data like a detective solving a mystery!
+I'm a Data Science Enthusiast 🧑‍💻 passionate about uncovering insights and building intelligent systems. I specialize in Machine Learning, Deep Learning, and MLOps, turning raw data into actionable strategies. Always exploring cutting-edge tech to stay ahead!
+
+Here’s a little more about what I do:
+
+*   🎓 **Focus:** Machine Learning, Deep Learning, and AI
+*   💻 **Skills:** Data Analysis, Visualization, Model Deployment
+*   📚 **Learning:** MLOps, NLP, Scalable Data Pipelines
+*   👯 **Collaboration:** Open to Data Science Projects, Open-Source ML, or AI Solutions
+*   💬 **Ask Me About:** Python, Machine Learning, MLOps, Data Visualization
+*   📫 **Contact:** krishchaudhary144@gmail.com
 
 ---
 
@@ -106,4 +112,11 @@ I'm a **Data Science Enthusiast** passionate about uncovering insights and build
 </p>
 <div align="center">
   <p><b>Let's shape the future with data! 🚀</b></p>
+</div>
+
+<div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
 </div>
