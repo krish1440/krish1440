@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krish%20Chaudhary&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Deep%20Learning%20Researcher&descAlignY=55&descAlign=50" alt="Krish Chaudhary Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krish%20Chaudhary&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descAlign=50" alt="Krish Chaudhary Banner" width="100%" />
 </div>
 
 <div align="center">
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=20BEFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+with+Data;Expertise+in+Computer+Vision+%26+NLP;Scalable+MLOps+%26+Cloud+Deployments;Transforming+Data+into+Actionable+Strategy" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=20BEFF&center=true&vCenter=true&width=800&lines=Building+Careers+on+Data+%26+AI;Expertise+in+Computer+Vision+%26+NLP;Scalable+MLOps+%26+Cloud+Deployments;Transforming+Data+into+Actionable+Strategy" alt="Typing SVG" />
     </a>
   </h3>
 </div>
@@ -30,11 +30,11 @@
 
 ### 👨‍💻 **Professional Summary**
 
-I am a results-driven **Data Scientist** and **Machine Learning Engineer** with a deep passion for solving complex problems through AI. My work bridges the gap between theoretical research and production-grade applications. I demonstrate strong proficiency in **end-to-end machine learning pipelines**, from data ingestion and preprocessing to model training, evaluation, and scalable deployment.
+I am a passionate **Data Scientist** and **Machine Learning Engineer** dedicated to building intelligent solutions. My journey focuses on applying advanced AI techniques to solve real-world problems. I have developed strong proficiency in **end-to-end machine learning pipelines**, from data processing to model deployment, and I am actively growing my expertise in **Deep Learning architectures** and **MLOps** best practices.
 
-*   🔭 **Current Focus:** Advanced Deep Learning Architectures (Transformers, GANs), MLOps, and Real-time Inference Systems.
-*   💡 **Core Competencies:** Predictive Modeling, Natural Language Processing (NLP), Computer Vision, and Big Data Analytics.
-*   🌱 **Learning:** Distributed Training, EdgeAI, and Advanced Cloud-Native ML Patterns.
+*   🔭 **Current Focus:** Building robust AI systems, mastering Generative AI (Transformers, GANs), and scalable Cloud Deployment.
+*   💡 **Core Competencies:** Predictive Analytics, Natural Language Processing (NLP), Computer Vision, and Data visualization.
+*   🌱 **Goal:** To innovate and create impactful AI-driven products.
 
 ---
 
@@ -58,6 +58,8 @@ I am a results-driven **Data Scientist** and **Machine Learning Engineer** with 
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=hugging-face&logoColor=black" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/Spacy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -67,8 +69,21 @@ I am a results-driven **Data Scientist** and **Machine Learning Engineer** with 
       <img src="https://img.shields.io/badge/XGBoost-00A1E4?style=flat-square&logo=xgboost&logoColor=white" />
       <img src="https://img.shields.io/badge/LightGBM-2C3E50?style=flat-square&logo=lightgbm&logoColor=white" />
       <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Statsmodels-3F51B5?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prophet-0072B2?style=flat-square&logo=facebook&logoColor=white" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><b>Data Analytics</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+            <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -81,15 +96,6 @@ I am a results-driven **Data Scientist** and **Machine Learning Engineer** with 
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & BI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -120,6 +126,6 @@ I am a results-driven **Data Scientist** and **Machine Learning Engineer** with 
 ---
 
 <div align="center">
-  <p><b>Connect with me to discuss Data Science, AI Innovation, and Research Opportunities.</b></p>
+  <p><b>Connect with me to discuss Data Science, AI Innovation, and new opportunities.</b></p>
   <img src="https://komarev.com/ghpvc/?username=krish1440&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
