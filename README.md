@@ -19,6 +19,9 @@
   <a href="https://kaggle.com/krishchaudhary144" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
   </a>
+  <a href="https://instagram.com/k_rish_chaudhary14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
   <a href="mailto:krishchaudhary144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
@@ -127,5 +130,4 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer** dedicated
 
 <div align="center">
   <p><b>Connect with me to discuss Data Science, AI Innovation, and new opportunities.</b></p>
-  <img src="https://komarev.com/ghpvc/?username=krish1440&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
