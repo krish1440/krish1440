@@ -3,120 +3,122 @@
 </div>
 
 <div align="center">
-
-# Hi 👋, I'm Krish Chaudhary
-
-### 🔍 Unraveling Insights, Shaping the Future with Data
-
-Unlock the power of data with me! I transform raw information into actionable insights.
-
-<img src="https://res.cloudinary.com/dyhe9rbjz/image/upload/v1752730193/xnpzgmszpklhab69bsaj.png" alt="Krish Chaudhary" width="150" height="150" style="border-radius: 50%;" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Krish+Chaudhary;Unraveling+Insights,+Shaping+Future;Deep+Learning+|+MLOps+|+AI" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-I'm a Data Science Enthusiast 🧑‍💻 passionate about uncovering insights and building intelligent systems. I specialize in Machine Learning, Deep Learning, and MLOps, turning raw data into actionable strategies. Always exploring cutting-edge tech to stay ahead!
-
-Here’s a little more about what I do:
-
-*   🎓 **Focus:** Machine Learning, Deep Learning, and AI
-*   💻 **Skills:** Data Analysis, Visualization, Model Deployment
-*   📚 **Learning:** MLOps, NLP, Scalable Data Pipelines
-*   👯 **Collaboration:** Open to Data Science Projects, Open-Source ML, or AI Solutions
-*   💬 **Ask Me About:** Python, Machine Learning, MLOps, Data Visualization
-*   📫 **Contact:** krishchaudhary144@gmail.com
-
----
-
-### 🔧 Technologies & Tools
-
-#### Languages & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB"/>
-</p>
-
-#### Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-1E4D7C?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/XGBoost-00A1E4?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-2C3E50?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=hugging-face&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/NLTK-2C3E50?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="SpaCy"/>
-</p>
-
-#### MLOps
-<p align="left">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" alt="DVC"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-009688?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-</p>
-
-#### Data Visualization & BI Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI"/>
-</p>
-
-#### Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white" alt="Spyder"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse"/>
-</p>
-
-#### Other Skills
-- **MLOps**: MLflow, DVC, CI/CD Pipelines, Docker, Kubernetes, Airflow, FastAPI
-- **Machine Learning & Deep Learning**: Supervised/Unsupervised Learning, NLP, Time Series Analysis
-- **Soft Skills**: Analytical Thinking, Problem-Solving, Communication, Team Collaboration
-- **Business & Data Skills**: Business Analysis, Data Analysis, Customer Acquisition
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=dracula" alt="Top Languages" width="400"/>  
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/krish-chaudhary-krc8252" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
-  <a href="https://kaggle.com/krishchaudhary144" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40"/></a>  
-  <a href="https://instagram.com/k_rish_chaudhary14" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/></a>
-</p>
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish1440&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="left" width="60%">
+      <h2>🚀 About Me</h2>
+      <p>
+        I'm a <b>Data Science Enthusiast 🧑‍💻</b> passionate about uncovering insights and building intelligent systems. I specialize in <b>Machine Learning, Deep Learning, and MLOps</b>, turning raw data into actionable strategies. Always exploring cutting-edge tech to stay ahead!
+      </p>
+      <ul>
+        <li>🎓 <b>Focus:</b> Machine Learning, Deep Learning, and AI</li>
+        <li>💻 <b>Skills:</b> Data Analysis, Visualization, Model Deployment</li>
+        <li>📚 <b>Learning:</b> MLOps, NLP, Scalable Data Pipelines</li>
+        <li>👯 <b>Collaboration:</b> Open to Data Science Projects, Open-Source ML, or AI Solutions</li>
+        <li>💬 <b>Ask Me About:</b> Python, Machine Learning, MLOps, Data Visualization</li>
+      </ul>
+      <p align="left">
+        📫 <b>Contact:</b> <a href="mailto:krishchaudhary144@gmail.com">krishchaudhary144@gmail.com</a>
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://res.cloudinary.com/dyhe9rbjz/image/upload/v1752730193/xnpzgmszpklhab69bsaj.png" alt="Krish Chaudhary" width="200" height="200" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://github.com/krish1440/krish1440/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔧 Technologies & Tools</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages & DBs</b></td>
+    <td align="center"><b>Data Science & ML</b></td>
+    <td align="center"><b>MLOps & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,c,java,mysql,oracle" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,fastapi,flask,gcp,aws" />
+    </td>
+  </tr>
+</table>
+
+<!-- Alternatives for missing icons in skillicons or specific badge prefs -->
+<div align="center">
+  <img src="https://img.shields.io/badge/XGBoost-00A1E4?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-2C3E50?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,anaconda,eclipse" />
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🏆 Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=krish1440&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <a href="https://linkedin.com/in/krish-chaudhary-krc8252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/krishchaudhary144" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://instagram.com/k_rish_chaudhary14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <br /><br />
   <p><b>Let's shape the future with data! 🚀</b></p>
-</div>
-
-<div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
+  
+  <img src="https://komarev.com/ghpvc/?username=krish1440&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
