@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/krish-chaudhary-krc8252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://kaggle.com/krishchaudhary144" target="_blank">
+  <a href="https://www.kaggle.com/krishchaudhary14" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/k_rish_chaudhary14" target="_blank">
