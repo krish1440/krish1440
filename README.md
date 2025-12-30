@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/krish-chaudhary-krc8252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.kaggle.com/krishchaudhary14" target="_blank">
+  <a href="https://kaggle.com/krishchaudhary144" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/k_rish_chaudhary14" target="_blank">
@@ -110,10 +110,10 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer** dedicated
 <div align="center">
   <!-- Top Row: Stats & Languages -->
   <a href="https://github.com/krish1440">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krish1440&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" alt="Krish's GitHub Stats" height="150" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krish1440&theme=radical" alt="Krish's GitHub Stats" />
   </a>
   <a href="https://github.com/krish1440">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish1440&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krish1440&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
@@ -122,7 +122,7 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer** dedicated
 <div align="center">
   <!-- Bottom Row: Streak -->
   <a href="https://github.com/krish1440">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish1440&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Commit Streak" />
+  <img src="https://streak-stats.demolab.com?user=krish1440&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Commit Streak" />
   </a>
 </div>
 
